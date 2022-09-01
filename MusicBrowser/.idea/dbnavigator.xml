@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DataExportManager">
@@ -32,7 +32,7 @@
       <console name="Connection" type="STANDARD" schema="" session="Main" />
     </connection>
     <connection id="86339757-7a1f-462a-9c9f-ad7e37259d26">
-      <console name="Connection 1" type="STANDARD" schema="" session="Main" />
+      <console name="Connection 1" type="STANDARD" schema="" session="Session 1" />
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
@@ -40,7 +40,9 @@
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="d4c6cf21-e730-458e-a0ba-ef4328fe5164" />
-    <connection id="86339757-7a1f-462a-9c9f-ad7e37259d26" />
+    <connection id="86339757-7a1f-462a-9c9f-ad7e37259d26">
+      <session name="Session 1" id="7c9fae2e-6342-41c7-85b8-8de10b94bdff" />
+    </connection>
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
